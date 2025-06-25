@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/tchayintr?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/tchayintr?style=social)
 
-- AI/ML Engineer and Head of AI at iApp Technology Co., Ltd.
+- AI/ML Engineer and CAIO at iApp Technology Co., Ltd. (Former Head of AI).
 - See me more at [boated.zip](https://boated.zip)
 
 ##
